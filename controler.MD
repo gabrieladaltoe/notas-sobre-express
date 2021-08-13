@@ -1,4 +1,4 @@
-*** Controllers ***
+** Controllers **
 
 Faz a comunicação entre Modelos e Visualizações através de rotas específicas.
 
