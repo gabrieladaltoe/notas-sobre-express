@@ -1,4 +1,4 @@
-** Express Generator **
+# Express Generator #
 
 Express-generator, como seu próprio nome sugere, é um gerador de projetos Express. A partir de um único comando, é possível gerar uma série de arquivos e uma estrutura correspondente de pastas pronta para usar.
 
@@ -6,19 +6,19 @@ Eventualmente, dependendo da complexidade do projeto e do design pattern que est
 
 
 
-** npm install express-generator -g **
+### npm install express-generator -g ###
 Para instalar o de forma global
 
-** express myApp --ejs **
+### express myApp --ejs ###
 Para criar o projeto
 
-** npm install **
+### npm install ###
 Para instalar as dependências dentro de myApp
 
 
 o arquivo ./bin/www irá rodar o applicativo, onde existe o controle do servidor, etc. 
 
-** nodemon bin/www **
+### nodemon bin/www ###
 Executar no mesmo local do projeto
 
 Depois disso é só acessar localhost://3000
